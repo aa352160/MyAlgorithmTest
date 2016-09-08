@@ -1,4 +1,4 @@
-package com.company.algorithm;
+package com.jh352160.algorithm;
 
 /**
  * Created by jh352160 on 2016/9/8.
